@@ -4,7 +4,7 @@ description: Use confrontation with mortality as a lens to reveal what genuinely
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3457
+  version: 1.0.3458
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - being-toward-death-reflection
